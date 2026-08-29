@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /*?utm_
+Disallow: /*?fbclid
+
+User-agent: Yandex
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&fbclid&gclid&yclid
+
+Sitemap: https://doctorgulnaz.ru/sitemap.xml
